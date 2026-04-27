@@ -82,14 +82,14 @@ Matching score (%)
 Ranked candidate list
 
 
-📊 Sales & Demand Forecasting – Ending
+📊 Sales & Demand Forecasting 
 
 This project demonstrates how data-driven forecasting can improve business decision-making and optimize resources. Contributions and suggestions are welcome!
 
-🎫 Support Ticket Classification – Ending
+🎫 Support Ticket Classification 
 
 This project highlights the power of NLP in automating customer support workflows. Feel free to contribute or enhance the model further!
 
-📄 Resume / Candidate Screening – Ending
+📄 Resume / Candidate Screening 
 
 This project showcases how AI can streamline hiring by efficiently matching candidates to job roles. Open to improvements and collaborations!
